@@ -12,7 +12,7 @@
                 <a class="nav-link" href="/dashboard">Dashboard</a>
                 <a class="nav-link" href="/employees">Guru dan Karyawan</a>
                 <a class="nav-link" href="/salary_groups">Golongan</a>
-                <a class="nav-link" href="/slip_gaji">Slip Gaji</a>
+                {{-- <a class="nav-link" href="/slip_gaji">Slip Gaji</a> --}}
                         {{-- <a class="nav-link" href="/index">adminlte</a> --}}
             </div>
                     
