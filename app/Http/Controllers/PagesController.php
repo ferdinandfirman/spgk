@@ -20,8 +20,8 @@ class PagesController extends Controller
         return view('pages.slip_gaji');
     }
 
-    public function index(){
-        return view('pages.index');
-    }
+    // public function index(){
+    //     return view('pages.index');
+    // }
 
 }
